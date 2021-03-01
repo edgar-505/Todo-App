@@ -1,9 +1,7 @@
 //
 //  EmptyListView.swift
 //  Todo App
-//
-//  Created by abdullah irianda on 18/02/21.
-//
+
 
 import SwiftUI
 

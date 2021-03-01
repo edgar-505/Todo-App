@@ -1,8 +1,5 @@
 //
-//  ContentView.swift
-//  Todo App
 //
-//  Created by abdullah irianda on 15/02/21.
 //
 
 import SwiftUI
@@ -34,7 +31,6 @@ struct ContentView: View {
                 .fontWeight(.semibold)
               
               Spacer()
-              
               Text(todo.priority ?? "Unknown")
                 .font(.footnote)
                 .foregroundColor(Color(UIColor.systemGray2))

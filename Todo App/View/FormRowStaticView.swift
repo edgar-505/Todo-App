@@ -1,9 +1,7 @@
 //
 //  FormRowStaticView.swift
 //  Todo App
-//
-//  Created by abdullah irianda on 22/02/21.
-//
+
 
 import SwiftUI
 
